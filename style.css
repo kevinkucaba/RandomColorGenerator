@@ -38,6 +38,7 @@ button {
 
 button:hover {
   background-color: #bbbbbb;
+  cursor: pointer;
 }
 
 h3 {
